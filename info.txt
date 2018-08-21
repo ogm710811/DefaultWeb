@@ -23,3 +23,5 @@ Commit #0-4 during squash activity
 Commit #0-5 during squash activity
 
 Commit #0-6 during squash activity
+
+Commit #16 during rebase activity
