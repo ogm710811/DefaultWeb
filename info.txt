@@ -40,4 +40,8 @@ Commit #20 during rebase activity
 
 Commit #21 during rebase activity
 
-Commit #22 this is from dev 2 making a bug fix change
+Commit #22 during rebase activity\
+
+Commit #23 developer 1 working on the bug fix 
+
+Commit #24 this is from dev 2 making a bug fix change
