@@ -45,3 +45,11 @@ Commit #22 during rebase activity\
 Commit #23 developer 1 working on the bug fix 
 
 Commit #24 this is from dev 2 making a bug fix change
+
+Commit #25 - Squash local commit 1
+
+Commit #26 - Squash local commit 2
+
+Commit #27 - Squash local commit 3
+
+Commit #28 - Squash local commit 4
